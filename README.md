@@ -1,3 +1,14 @@
+# Note From Clarence-pan
+I was very happy using `parallelshell` to run scripts in parallel, until today I upgraded node.js to v10. Unfortantely [darkguy2008/parallelshell](https://github.com/darkguy2008/parallelshell) seems stopped maintenance.
+
+So I forked it, and published a scoped package: `@clarencep/parallelshell`.
+
+Install it: `npm install -g @clarencep/parallelshell`.
+
+Now you can use it as the original parallelshell.
+
+-----
+
 ## Parallel Shell
 
 This is a super simple npm module to run shell commands in parallel. All
