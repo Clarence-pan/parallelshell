@@ -1,14 +1,14 @@
 {
-  "name": "parallelshell",
-  "version": "3.0.2",
-  "description": "Invoke multiple commands, running in parallel",
-  "homepage": "https://github.com/darkguy2008/parallelshell",
+  "name": "@clarencep/parallelshell",
+  "version": "3.0.3",
+  "description": "Invoke multiple commands, running in parallel -- a fork of darkguy2008/parallelshell",
+  "homepage": "https://github.com/clarence-pan/parallelshell",
   "repository": {
     "type": "git",
-    "url": "git@github.com:darkguy2008/parallelshell.git"
+    "url": "git@github.com:clarence-pan/parallelshell.git"
   },
   "bugs": {
-    "url": "https://github.com/darkguy2008/parallelshell/issues"
+    "url": "https://github.com/clarence-pan/parallelshell/issues"
   },
   "main": "index.js",
   "bin": {
@@ -21,7 +21,7 @@
     "parallel",
     "shell"
   ],
-  "author": "DARKGuy <darkguy2008@gmail.com>",
+  "author": "DARKGuy <darkguy2008@gmail.com>, Clarence Pan <clarence-pan@foxmail.com>",
   "license": "MIT",
   "devDependencies": {
     "bluebird": "^3.5.0",
@@ -30,3 +30,4 @@
     "mocha": "^3.4.2"
   }
 }
+
